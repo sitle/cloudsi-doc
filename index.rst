@@ -3,8 +3,6 @@ Mise en oeuvre du cloud privé DSI
 =====================================
 
 .. image:: https://readthedocs.org/projects/cloudsi-doc/badge/?version=latest
-:target: https://readthedocs.org/projects/cloudsi-doc/?badge=latest
-:alt: Documentation Status
 
 Ce document a pour objectif de décrire la conception et la mise en oeuvre d'un cloud privé basé sur le logiciel libre Openstack_.
 
